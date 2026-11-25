@@ -3,6 +3,10 @@
 One unit, measured 2026-11-22 in an ordinary room. Conditions, equipment and
 everything that was *not* done: [../../method.md](../../method.md).
 
+![Measurement setup](img/setup.jpg)
+
+*Speaker and microphone in place, 20 cm on axis. Photo from the same session.*
+
 ![Frequency response](img/frequency-response.png)
 
 ## Results per level

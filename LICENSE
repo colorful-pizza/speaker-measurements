@@ -30,7 +30,7 @@ The full legal code of this license is available at:
 Suggested attribution:
 
   "JBL Go 2 frequency response measurements" by colorful-pizza,
-  https://github.com/colorful-pizza/<repository>, licensed under CC BY 4.0.
+  https://github.com/colorful-pizza/speaker-measurements, licensed under CC BY 4.0.
 
 The Python scripts in scripts/ are licensed separately under the MIT License;
 see LICENSE-MIT.
