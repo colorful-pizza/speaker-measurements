@@ -1,3 +1,5 @@
+**English** | [中文](README.zh-CN.md)
+
 # Speaker measurements
 
 Frequency response, distortion and output-limit measurements of small Bluetooth
@@ -77,5 +79,3 @@ python scripts/plot.py
 
 Measurement data, figures and text: [CC BY 4.0](LICENSE) — use them, just say
 where they came from. Scripts: [MIT](LICENSE-MIT).
-
-中文版说明见 [README.zh-CN.md](README.zh-CN.md)。

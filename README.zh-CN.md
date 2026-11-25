@@ -1,3 +1,5 @@
+[English](README.md) | **中文**
+
 # 扬声器实测数据
 
 用 [REW](https://www.roomeqwizard.com/) 在普通房间里测的小型蓝牙音箱频响、失真和输出上限。
@@ -62,5 +64,3 @@ python scripts/plot.py
 ## 许可
 
 测量数据、图片和文字：[CC BY 4.0](LICENSE)，随便用，注明出处即可。脚本：[MIT](LICENSE-MIT)。
-
-English version: [README.md](README.md)。
